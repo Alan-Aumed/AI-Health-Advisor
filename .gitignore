@@ -1,0 +1,9 @@
+# Secrets
+.streamlit/secrets.toml
+.streamlit/API key name.txt
+
+# Python / editor junk
+__pycache__/
+*.pyc
+.vscode/
+.env
